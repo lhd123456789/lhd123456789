@@ -3,7 +3,7 @@ include: ['.htaccess']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
 markdown: kramdown
 highlights: pygments
-url: 
+url: https://lhd123456789.github.io
 cdn_url: 7u2t01.com1.z0.glb.clouddn.com
 lsi: false
 safe: true
